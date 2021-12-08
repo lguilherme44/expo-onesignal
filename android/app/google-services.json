@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296281654748",
+    "project_id": "estudando-expo-com-onesignal",
+    "storage_bucket": "estudando-expo-com-onesignal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296281654748:android:9fca51566339cc585e3b19",
+        "android_client_info": {
+          "package_name": "com.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296281654748-0jat1qd2qvqp608itq5nl2d0eh90to79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzywh3dpouFjW3-hMl3SrLP67XSxx9ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296281654748-0jat1qd2qvqp608itq5nl2d0eh90to79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
