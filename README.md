@@ -1,4 +1,6 @@
-## To Run
+Obs: Alterar a chave em: app.json (extra.oneSignalAppId)
+
+## Run
 
 ```sh
 $ expo prebuild
